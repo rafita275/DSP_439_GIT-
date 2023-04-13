@@ -1,1 +1,2 @@
-Hello, this is a  trial
+Hello, this is a  trial.
+Next line.
